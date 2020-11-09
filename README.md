@@ -22,5 +22,8 @@ Por cuestion de tiempo y que me encontrabá un poco indispuesto no alcancé a im
 # Las Validaciones por parte del backend estan realizadas correctamente, exigiendo un token para poder generar las peticiones
 # Las Validaciones por parte del Front no alcancé a realizarlas completamente.
 
-# Paginacion implementada en Backend Completa
+# Paginacion implementada en Backend Completa OK
 # Paginacion implementada en Front Incompleta
+
+# Columna con ultimos usuarios y sus fechas de ingreso OK
+# Sala de Chat Publica y con opción de Borrar Mensajes OK
